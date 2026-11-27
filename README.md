@@ -6,29 +6,6 @@
 </a>
 
 
-how to add a readme.md file to my https://github.com/julio-martinez
-To display a README.md directly on your GitHub profile at github.com/julio-martinez, you need to create a special repository with the exact same name as your GitHub username.
-1. Create your profile repository
-Go to github.com/new.
-Configure the repository as follows:
-Owner
-julio-martinez
-Repository name
-julio-martinez
-You found a secret!
-This special repository allows you to add a README.md to your GitHub profile.
-Public
-Anyone on the internet can see this repository.
-Add a README file
-Click Create repository.
-Open the README.md file.
-Click the pencil icon to edit it.
-Add your content and click Commit changes.
-2. Customize your README.md
-Based on your experience as a Platform Engineer and SRE, I recommend starting with the following professional GitHub profile README.
-
-# Hi there, I'm Julio Martinez 👋
-
 ## Platform Engineer | Site Reliability Engineer | DevSecOps
 
 I am a Platform Engineer passionate about building secure,
